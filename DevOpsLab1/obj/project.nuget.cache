@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "46aWBAO2I0Pg8g3bTPLNxJ3IVn5TVM5kyf5hotfZvPM0zIaOkka3Xa5M+5jCZlpF1Vq25OCqEbPzZnODRp/0Ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mcnav\\source\\repos\\DevOpsLab1\\DevOpsLab1\\DevOpsLab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mcnav\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
